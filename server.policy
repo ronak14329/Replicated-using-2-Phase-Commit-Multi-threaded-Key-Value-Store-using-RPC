@@ -1,0 +1,3 @@
+grant codeBase "file:/c:/Users/abcd/workspace/RmiProj3/bin/" {
+    permission java.security.AllPermission;
+};
